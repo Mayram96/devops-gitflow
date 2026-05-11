@@ -122,9 +122,11 @@ main() {
     tarea_limpieza
     tarea_reporte
 
+
     log "============================================"
     log "Todas las tareas completadas exitosamente"
     log "============================================"
 }
+
 
 main "$@"
