@@ -46,3 +46,5 @@ git log --oneline --graph --all
 
 - `v1.1`
   - hotfix permisos logs
+
+
